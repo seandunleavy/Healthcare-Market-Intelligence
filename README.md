@@ -1,5 +1,8 @@
 # Healthcare Market Intelligence & Value-Based Care Analysis
 
+**Plan:** [`PROJECT_PLAN.md`](PROJECT_PLAN.md) · **Case study:** [`PORTFOLIO.md`](PORTFOLIO.md)  
+**Local:** `C:\Users\seand\GitProjects\Healthcare-Market-Intelligence`
+
 ## 🎯 Project Overview
 This project identifies strategic growth opportunities for healthcare systems by analyzing **Medicare Value-Based Care (VBC)** metrics and **Market Saturation**. By cross-referencing hospital quality ratings with financial efficiency, this analysis identifies competitive "Care Deserts" and high-value targets for health system expansion.
 

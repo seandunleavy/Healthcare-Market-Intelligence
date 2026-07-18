@@ -1,4 +1,22 @@
-# Project Roadmap: Healthcare Market Intelligence
+# Healthcare Market Intelligence — Project Plan
+
+**Last updated:** 2026-07-18 (moved to GitProjects; portfolio standard)  
+**Status:** **Complete** — portfolio case study  
+**Repo:** [github.com/seandunleavy/Healthcare-Market-Intelligence](https://github.com/seandunleavy/Healthcare-Market-Intelligence)  
+**Local:** `C:\Users\seand\GitProjects\Healthcare-Market-Intelligence`  
+**Case study:** [`PORTFOLIO.md`](PORTFOLIO.md)
+
+---
+
+## YOU ARE HERE
+
+```
+STATUS:   V1.0 released Feb 2026; docs aligned July 2026
+PRODUCT:  Complete SQL + Power BI suite on CMS data
+NEXT:     Optional PBI embed / site link only if user asks
+```
+
+---
 
 ## Phase 1: Data Acquisition & Ingestion ✅
 - [x] Source CMS Hospital General Information CSV
@@ -49,6 +67,16 @@
 * `03_create_master_pbi_view.sql`
 * `04_Value_Matrix_Dashboard_Source.sql`
 
-### Next Steps
-* **Web Deployment:** Generate Public Embed iFrame codes from the Power BI Service.
-* **Portfolio Integration:** Update personal website HTML/CSS to host the 1500px responsive dashboard containers.
+### Next Steps (optional — not active roadmap)
+* **Web Deployment:** Generate Public Embed iFrame codes from the Power BI Service (if license allows).
+* **Portfolio Integration:** Optional link from dunleavyorganization.com project pages.
+
+---
+
+## Last session
+
+**2026-07-18 — One-time cleanup**
+
+- Folder moved from `C:\Users\seand\Projects\` → `C:\Users\seand\GitProjects\`  
+- Added `PORTFOLIO.md` + `AGENTS.md`; plan header aligned to standard  
+
