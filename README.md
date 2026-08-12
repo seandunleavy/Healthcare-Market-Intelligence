@@ -1,6 +1,6 @@
 # Healthcare Market Intelligence & Value-Based Care Analysis
 
-**Plan:** [`PROJECT_PLAN.md`](PROJECT_PLAN.md) · **Case study:** [`PORTFOLIO.md`](PORTFOLIO.md)  
+**Plan:** [`PROJECT_PLAN.md`](PROJECT_PLAN.md) · **Case study:** [`PORTFOLIO.md`](PORTFOLIO.md) · **Architecture:** [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md)  
 **Local:** `C:\Users\seand\GitProjects\Healthcare-Market-Intelligence`
 
 ## 🎯 Project Overview
